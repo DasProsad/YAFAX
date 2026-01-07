@@ -2,6 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/yafax.svg)](https://pypi.org/project/yafax/)
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)
+![CI](https://github.com/DasProsad/YAFAX/actions/workflows/ci.yml/badge.svg?style=flat-square)
 
 ## Introduction
 
