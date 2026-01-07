@@ -1,5 +1,8 @@
 # YAFAX (<ins>Y</ins>et <ins>A</ins>nother <ins>FA</ins>STA Index and E<ins>x</ins>traction Tool)
 
+[![PyPI version](https://badge.fury.io/py/yafax.svg)](https://pypi.org/project/yafax/)
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)
+
 ## Introduction
 
 Pure-Python implementation of `samtools faidx` with no external dependencies. The tool provides two modes: `index`, which creates a genome index, and `getseq`, which retrieves sequences from an indexed genome. As with `samtools faidx`, the genome must be indexed before sequence retrieval. By default, the genome index is expected to be located in the same directory as the genome FASTA file. Since this is an **exact subset** of `samtools faidx`, it is fully interoperable with it. An index created using `yafax index` can be used by `samtools faidx` for sequence retrieval, and vice versa. It offers reasonable performance: fetching 2 million queries, each with a width of 1 kbp, takes less than 2 minutes for the GRCh38 build of human genome. It is faster than the existing `pyFaidx` package due to lower overhead, but it offers fewer options.
