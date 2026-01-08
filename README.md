@@ -3,6 +3,10 @@
 [![PyPI version](https://badge.fury.io/py/yafax.svg)](https://pypi.org/project/yafax/)
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)
 ![CI](https://github.com/DasProsad/YAFAX/actions/workflows/ci.yml/badge.svg?style=flat-square)
+[![GitHub release](https://img.shields.io/github/v/release/DasProsad/YAFAX?style=flat-square)](https://github.com/DasProsad/YAFAX/releases)
+[![PyPI version](https://img.shields.io/pypi/v/yafax?style=flat-square)](https://pypi.org/project/yafax/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/yafax?style=flat-square)](https://pypi.org/project/yafax/)
+![Repo size](https://img.shields.io/github/repo-size/DasProsad/YAFAX?style=flat-square)
 
 ## Introduction
 
