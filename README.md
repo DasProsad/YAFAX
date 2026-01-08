@@ -5,7 +5,7 @@
 ![CI](https://github.com/DasProsad/YAFAX/actions/workflows/ci.yml/badge.svg)
 [![GitHub release](https://img.shields.io/github/v/release/DasProsad/YAFAX)](https://github.com/DasProsad/YAFAX/releases)
 [![PyPI version](https://img.shields.io/pypi/v/yafax)](https://pypi.org/project/yafax/)
-[![PyPI downloads](https://img.shields.io/pypi/dt:yafax)](https://pypi.org/project/yafax/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/yafax)](https://pypi.org/project/yafax/)
 ![Repo size](https://img.shields.io/github/repo-size/DasProsad/YAFAX)
 ![Typed](https://img.shields.io/badge/typing-PEP%20561-2b9348)
 ![Coverage](https://img.shields.io/badge/coverage-see%20CI-yellow)
