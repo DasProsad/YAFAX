@@ -11,9 +11,7 @@
 ![Typed](https://img.shields.io/badge/typing-PEP%20561-2b9348)
 ![Coverage](https://img.shields.io/badge/coverage-see%20CI-yellow)
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/repo)
-![Release](https://img.shields.io/badge/Release-Current-blue)
-![GitHub Release](https://img.shields.io/github/v/release/username/repo?style=for-the-badge)
+![GitHub release](https://img.shields.io/github/v/release/username/repo?logo=github&logoColor=white)
 
 ## Introduction
 
