@@ -11,7 +11,7 @@
 ![Typed](https://img.shields.io/badge/typing-PEP%20561-2b9348)
 ![Coverage](https://img.shields.io/badge/coverage-see%20CI-yellow)
 
-![GitHub release](https://img.shields.io/github/v/release/username/repo?logo=github&logoColor=white)
+![GitHub release](https://img.shields.io/github/v/release/dasprosad/yafax?logo=github&logoColor=white)
 
 ## Introduction
 
