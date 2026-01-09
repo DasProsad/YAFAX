@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout your repo
+      # Checkout repo
       - uses: actions/checkout@v5
 
       # Install Python 3.13
@@ -35,3 +35,10 @@ jobs:
             --cov=yafax \
             --cov-report=xml \
             --cov-report=term-missing tests/
+      
+      # Upload score to code cov
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+          files: coverage.xml
+          fail_ci_if_error: true
