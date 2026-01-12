@@ -8,7 +8,7 @@
 [![PyPI downloads](https://img.shields.io/pypi/dm/yafax)](https://pypi.org/project/yafax/)
 ![Repo size](https://img.shields.io/github/repo-size/DasProsad/YAFAX)
 ![Typed](https://img.shields.io/badge/typing-PEP%20561-2b9348)
-[![codecov](https://codecov.io/gh/DasProsad/YAFAX/branch/main/graph/badge.svg)](https://codecov.io/gh/DasProsad/YAFAX)
+<!-- [![codecov](https://codecov.io/gh/DasProsad/YAFAX/branch/main/graph/badge.svg)](https://codecov.io/gh/DasProsad/YAFAX) -->
 
 ## Introduction
 
