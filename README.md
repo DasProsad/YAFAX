@@ -8,6 +8,8 @@
 [![PyPI downloads](https://img.shields.io/pypi/dm/yafax)](https://pypi.org/project/yafax/)
 ![Repo size](https://img.shields.io/github/repo-size/DasProsad/YAFAX)
 ![Typed](https://img.shields.io/badge/typing-PEP%20561-2b9348)
+[![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
+[![POSIX](https://img.shields.io/badge/POSIX-compliant-blue)](https://pubs.opengroup.org/onlinepubs/9699919799/)
 <!-- [![codecov](https://codecov.io/gh/DasProsad/YAFAX/branch/main/graph/badge.svg)](https://codecov.io/gh/DasProsad/YAFAX) -->
 
 ## Introduction
