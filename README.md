@@ -188,7 +188,7 @@ user    3m32.369s
 sys     0m53.095s
 ```
 
-### `getseq` from `yafax` with CPython v3.13 (faidex v1.0.0)
+### `getseq` from `yafax` with CPython v3.13 (yafax v1.0.0)
 
 ```bash
 time yafax getseq --bedfile seed100_interval1000.bed --outfile yafaxgetseqout.fa hg38.fa
