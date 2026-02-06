@@ -22,7 +22,7 @@ Pure-Python implementation of `samtools faidx` with no external dependencies. Th
 
 YAFAX does not have any external dependencies. However, since the source code utilizes type hints, **Python 3.11 or higher is recommended**. Additionally, the `argparse` module in Python 3.13 includes enhanced formatting features that are used in the help message, so **Python 3.13 or higher is recommended** for full compatibility.
 
-YAFAX has been tested on **Ubuntu 20.04, 22.04, 24.04**, and **Alpine Linux v3.22** with Python versions **3.10–3.13**. It should also work on Windows, although **Windows Subsystem for Linux (WSL)** is recommended for best results.
+YAFAX has been tested on **Ubuntu 20.04, 22.04, 24.04**, and **Alpine Linux v3.22** with Python versions **3.11–3.13**. It should also work on Windows, although **Windows Subsystem for Linux (WSL)** is recommended for best results.
 
 ## Installation
 
