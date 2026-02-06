@@ -11,7 +11,7 @@
 [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
 [![POSIX](https://img.shields.io/badge/POSIX-compliant-blue)](https://pubs.opengroup.org/onlinepubs/9699919799/)
 ![WSL](https://img.shields.io/badge/WSL-supported-0a7bbb?logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-7+-5391FE?logo=simple-icons&logoColor=white)
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
 <!-- [![codecov](https://codecov.io/gh/DasProsad/YAFAX/branch/main/graph/badge.svg)](https://codecov.io/gh/DasProsad/YAFAX) -->
 
 ## Introduction
