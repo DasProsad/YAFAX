@@ -200,10 +200,6 @@ user    1m24.853s
 sys     0m13.172s
 ```
 
-## License
-
-YAFAX is distributed under the GNU General Public License v3. You should have received a copy the license with the program.
-
 ## Release history
 
 - 1.0.0 First stable release
@@ -240,3 +236,9 @@ If you find any bugs or would like a new feature, please report the same in the 
 - Li, H., Handsaker, R. E., Wysoker, A., Fennell, T., Ruan, J., Homer, N., Marth, G., Abecasis, G., & Durbin, R.; 1000 Genome Project Data Processing Subgroup (2009). *The Sequence Alignment/Map format and SAMtools.* **Bioinformatics**, 25(16), 2078–2079. [DOI:10.1093/bioinformatics/btp352](https://doi.org/10.1093/bioinformatics/btp352).
 
 - Shirley, M. D., Ma, Z., Pedersen, B. S., & Wheelan, S. J. (2015). *Efficient “pythonic” access to FASTA files using pyfaidx*. **PeerJ PrePrints**, 3, e1196. [DOI:10.7287/peerj.preprints.970v1](https://doi.org/10.7287/peerj.preprints.970v1).
+
+## License
+
+YAFAX is distributed under the GNU General Public License v3. You should have received a copy the license with the program.
+
+![GPLv3 logo](https://gnu.org/graphics/gplv3-127x51.png "GNU General Public License, version 3")
